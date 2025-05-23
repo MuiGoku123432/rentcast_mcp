@@ -3,7 +3,7 @@
 A Model Context Protocol (MCP) server that provides complete access to the [RentCast Real Estate API](https://developers.rentcast.io/reference/introduction) for AI assistants like Claude Desktop.
 
 ## Demo
-<video src="https://github.com/vtrivedy/rentcast_mcp/blob/main/assets/rentcast_mcp.mp4" controls width="600">
+<video src="https://github.com/vtrivedy/rentcast_mcp/blob/main/assets/rentcast_mcp.mp4">
   Your browser does not support the video tag.
 </video>
 
