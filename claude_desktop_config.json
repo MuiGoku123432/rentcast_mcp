@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "rentcast-local": {
+      "command": "/path/to/your/project/.venv/bin/python",
+      "args": ["/path/to/your/project/rentcast_mcp_server.py"],
+      "cwd": "/path/to/your/project"
+    }
+  }
+} 
